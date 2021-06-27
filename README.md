@@ -8,4 +8,4 @@ A Dropdown item selection component
 
 A Google Translate API component
 
-We will then wrap up the Widgets application by building our own navigation using JS and React without a third-party library like React Router. This will be used to navigate between the different widget components that were built.
+And then wraped up the Widgets application by building our own navigation using JS and React without a third-party library like React Router. This is used to navigate between the different widget components that is built.
