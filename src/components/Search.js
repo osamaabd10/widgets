@@ -33,7 +33,7 @@ const Search = () => {
     if (debouncedTerm) {
       search();
     }
-  }, [term]);
+  }, [debouncedTerm]);
 
   const renderedResults = results.map((result) => {
     return (
